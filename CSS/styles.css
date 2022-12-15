@@ -44,7 +44,7 @@
 ::before,
 ::after {
     box-sizing: border-box;
-    transition: .5s;
+    transition: .2s;
 }
 
 html {
