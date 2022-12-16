@@ -507,3 +507,12 @@ img {
 .project__description {
     color: var(--first-color-light);
 }
+
+.project__description {
+    margin-bottom: var(--mb-4);
+}
+
+.project__img {
+    widows: 220px;
+    justify-self: center;
+}
