@@ -486,3 +486,24 @@ img {
 .services__content:hover .servces__description {
     color: var(--first-color-lighten);
 }
+
+/* ================ 
+    PROJECT SECTION
+===================*/
+.project {
+    background-color: var(--first-color);
+    padding-bottom: 0;
+}
+
+.project__container {
+    row-gap: 2rem;
+}
+
+.project__data {
+    text-align: center;
+}
+
+.project__title,
+.project__description {
+    color: var(--first-color-light);
+}
