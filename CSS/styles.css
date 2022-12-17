@@ -516,3 +516,17 @@ img {
     widows: 220px;
     justify-self: center;
 }
+
+/* ================ 
+    WORKS SECTION
+===================*/
+.works__container {
+    row-gap: 2rem;
+    justify-items: center;
+}
+
+.works__img {
+    position: relative;
+    border-radius: .5rem;
+    overflow: hidden;
+}
