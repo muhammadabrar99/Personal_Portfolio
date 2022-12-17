@@ -554,3 +554,11 @@ img {
     margin-bottom: var(--mb-2);
 }
 
+.works__title {
+    font-size: var(--h2-font-size);
+    color: var(--first-color-lighten);
+}
+
+.works__img:hover .works__data {
+    bottom: 0;
+}
