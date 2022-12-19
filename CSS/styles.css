@@ -562,3 +562,21 @@ img {
 .works__img:hover .works__data {
     bottom: 0;
 }
+
+/* ================ 
+    CONTACT SECTION
+===================*/
+.contact__container {
+    row-gap: 2rem;
+}
+
+.contact__input {
+    width: 100%;
+    background-color: var(--first-color-light);
+    font-size: var(--normal-font-size);
+    border: none;
+    border-radius: .5rem;
+    outline: none;
+    padding: 1rem;
+    margin-bottom: var(--mb-2);
+}
