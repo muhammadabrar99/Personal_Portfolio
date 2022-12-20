@@ -609,3 +609,12 @@ img {
     display: block;
     padding-left: 1rem;
 }
+
+/* ================ 
+    FOOTER SECTION
+===================*/
+.footer {
+    background-color: var(--first-color-darken);
+    color: var(--first-color-lighten);
+    text-align: center;
+}
