@@ -642,3 +642,13 @@ img {
     margin: 0 var(--mb-1);
 }
 
+.footer__link:hover {
+    background-color: var(--first-color-lighten);
+    color: var(--first-color);
+}
+
+.footer__copy {
+    color: var(--text-color);
+    font-size: var(--small-font-size);
+}
+
